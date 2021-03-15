@@ -21,7 +21,7 @@ main {
 ul.subnav>.current_page_item>a {
     color: #3d3d3d;
     font-family: "Libre Baskerville", "Times New Roman", "serif";
-    font-size: 2em;
+    font-size: 3em;
 }
 
 ul.subnav,
@@ -36,9 +36,9 @@ ul.subnav a {
 }
 
 ul.subnav ul a {
-    font-size: .875em;
+    font-size: 1.25em;
     font-weight: 600;
-    line-height: 1.25em;
+    line-height: 2em;
     padding: 5px;
     -webkit-font-smoothing: antialiased;
     color: #a51417;
